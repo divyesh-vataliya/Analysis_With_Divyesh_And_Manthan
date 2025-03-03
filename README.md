@@ -1,6 +1,6 @@
 # Analysis With Divyesh & Manthan
 
-![Project Logo](https://github.com/divyesh-vataliya/Analysis_With_Divyesh_And_Manthan/raw/main/photos/small_new_logo-512.webp)
+![Project Logo](https://i.imgur.com/QBcz8jD.png)
 
 ## 📌 Overview
 This project, **Analysis With Divyesh & Manthan**, is designed to provide in-depth data analysis and visualization. It leverages Python and various data science tools to analyze datasets efficiently.
