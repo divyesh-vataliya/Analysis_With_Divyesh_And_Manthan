@@ -160,7 +160,7 @@ st.markdown("""
 # ✅ Cache dataset loading for performance optimization
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\vs\project\processed_flipkart_data_with_images.csv")
+    df = pd.read_csv("processed_data_with_images.csv")
     return df
 
 data_new = load_data()
